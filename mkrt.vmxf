@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 ce fa 49 97 3f a3 63-44 74 c2 4e 12 12 90 d2</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">mkrt.vmx</vmxPathName></VM></Foundry>
